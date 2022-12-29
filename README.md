@@ -11,7 +11,7 @@ Select Your Number To Find Tables (for ex. 12).
 
 So it will automatically gives you the list of the table (for ex.)😗.
 
- 
+``` 
 12 x 1 = 12
 12 x 2 = 24
 12 x 3 = 36
@@ -22,6 +22,7 @@ So it will automatically gives you the list of the table (for ex.)😗.
 12 x 8 = 96
 12 x 9 = 108
 12 x 10 = 120
+```
 
 
 Created By TnYtCoder !!!
