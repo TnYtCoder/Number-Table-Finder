@@ -26,7 +26,7 @@ So it will automatically gives you the list of the table (for ex.)😗.
 
 Created By TnYtCoder !!!
 
-#Termux Installation Project 
+# Termux Installation Project 
 
 First of all install all basics like apt update & more..
 
